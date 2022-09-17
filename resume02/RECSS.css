@@ -11,7 +11,7 @@ body{
 height:auto;
 width: 100%;
 opacity:0.9;
-background-image: url(bgimage01.png);
+/* background-image: url(bgimage01.png); */
 background-size:cover;
 background-position: center;
 background-attachment: fixed;
